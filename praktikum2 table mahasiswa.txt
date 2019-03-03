@@ -1,9 +1,6 @@
 Microsoft Windows [Version 10.0.17134.1]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
-C:\Users\USER>cd:\xampp\mysql\bin
-The filename, directory name, or volume label syntax is incorrect.
-
 C:\Users\USER>cd;\xampp\mysql\bin
 
 C:\xampp\mysql\bin>mysql -u root
